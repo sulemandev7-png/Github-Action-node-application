@@ -5,7 +5,7 @@
   "description": "A simple Node.js application",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
     "test": "echo \"Tests Passed\""
 
   }
